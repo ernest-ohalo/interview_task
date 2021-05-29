@@ -1,0 +1,11 @@
+# IDEs
+.idea
+.vscode
+
+# Virtual environments
+/venv
+
+# pycache
+__pycache__/
+
+erc20.db
